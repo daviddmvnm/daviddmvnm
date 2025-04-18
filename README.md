@@ -23,6 +23,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
 
 ![image](https://github.com/user-attachments/assets/15a38061-eaeb-4edb-94a3-4203ac1a6827)
+
  gui preview
 
 - **The Climate Catastrophe Game** 🌍💥: 
@@ -32,7 +33,9 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
 
 
 ![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
+
  math preview :)
+ 
 Streamlit Demo and Model Maths : https://dynamic-climate-game-simulation.streamlit.app/
 
 ---
