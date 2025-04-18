@@ -20,8 +20,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 - **AutoConnect** 🤖📬: A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.  
   It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.  
   Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability and offline use.
-
-
+https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
 ---
 
 ### **🛠️ Languages & Tools I Use**
