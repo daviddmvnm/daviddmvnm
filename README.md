@@ -32,7 +32,7 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
  cooperation challenges. Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
 
 
-![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
+ ![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
 
  math preview :)
  
