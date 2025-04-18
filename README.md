@@ -5,7 +5,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 📍 Based in the UK | He/Him
 
 ---
-### 🧪 **Currently building**
+### 🧪 **My Summer Project**
 - **SolarAtlas** 🌞🗺️: A geospatial tool to scout optimal solar development zones *before* intensive modeling in tools like SAM or PVGIS.  
   Think of it as automated EDA for solar planning — using open data, terrain analysis, and site heuristics to surface high-potential regions quickly.
 
@@ -37,7 +37,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 
 - **scikit-learn**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40"/>
+ <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
 
 - **TensorFlow**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
