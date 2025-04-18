@@ -1,6 +1,6 @@
 # **David  |  *✨Aspiring Data Scientist ✨***
 
-I'm a final-year Economics student focused on learning and getting as good as I can at using data science to solve problems — from everyday tasks like automating LinkedIn outreach to hopefully one day bigger challenges like optimising clean energy sites or modeling macroeconomic risks.
+I'm a 2nd-year Economics student focused on learning and getting as good as I can at using data science to solve problems — from everyday tasks like automating LinkedIn outreach to hopefully one day bigger challenges like optimising clean energy sites or modeling macroeconomic risks.
 
 📍 Based in the UK | He/Him
 
