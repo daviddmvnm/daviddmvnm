@@ -29,6 +29,7 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
  political pressure. The game incorporates dynamic costs that evolve over time, urgent climate threats, and threshold-dependent payoffs. Players' decisions are weighted by their economic size and energy impact, simulating real-world climate 
  cooperation challenges. Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
 
+math preview :)
 ![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
 
 Streamlit Demo and Model Maths : https://dynamic-climate-game-simulation.streamlit.app/
