@@ -26,7 +26,12 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
 
 - **The Climate Catastrophe Game** 🌍💥: 
 A dynamic, multi-round simulation of global renewable energy adoption modeled as a public goods game. Countries decide whether to transition to green energy or free-ride, with their choices influenced by economic costs, climate risks, and political pressure. The game incorporates dynamic costs that evolve over time, urgent climate threats, and threshold-dependent payoffs. Players' decisions are weighted by their economic size and energy impact, simulating real-world climate cooperation challenges. Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
+
+![image](https://github.com/user-attachments/assets/ed98548b-82ce-495e-b02e-fd152ddbf1a0)
+
+
 Streamlit Demo https://dynamic-climate-game-simulation.streamlit.app/
+
 Mathematical Foundations https://docs.google.com/document/d/1tJWnz3HHwFr0vCLX9vjgdrN7TkcHYmGK_M03o42I3Zw/edit?tab=t.sk0jy4ynmiir
 ---
 
