@@ -28,7 +28,8 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
  A dynamic, multi-round simulation of global renewable energy adoption modeled as a public goods game. Countries decide whether to transition to green energy or free-ride, with their choices influenced by economic costs, climate risks, and 
  political pressure. The game incorporates dynamic costs that evolve over time, urgent climate threats, and threshold-dependent payoffs. Players' decisions are weighted by their economic size and energy impact, simulating real-world climate 
  cooperation challenges. Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
-![image](https://github.com/user-attachments/assets/ed98548b-82ce-495e-b02e-fd152ddbf1a0)
+![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
+
 
 
 
