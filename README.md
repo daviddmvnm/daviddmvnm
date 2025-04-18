@@ -27,34 +27,36 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 ### **🛠️ Languages & Tools I Use**
 
 #### **📊 Data Science & Machine Learning**
-- **Python**  
+ **Python**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  
+  **SQL**  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
-- **NumPy**  
+ **NumPy**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
 
-- **Pandas**  
+**Pandas**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 
-- **scikit-learn**  
+ **scikit-learn**  
  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height="40"/>
 
-- **TensorFlow**  
+**TensorFlow**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
 
-- **SQL**  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+
 
 ---
 
 #### **🖥️ Development & Environments**
-- **Git**  
+**Git**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
-- **Linux**  
+ **Linux**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
   
-- **Jupyter**  
+ **Jupyter**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 
 
