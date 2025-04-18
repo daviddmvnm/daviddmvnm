@@ -21,6 +21,9 @@ I'm a final-year Economics student focused on learning and getting as good as I 
   It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.  
   Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability and offline use.
 https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
+*preview*
+![image](https://github.com/user-attachments/assets/15a38061-eaeb-4edb-94a3-4203ac1a6827)
+
 ---
 
 ### 🛠️ Languages & Tools I Use
