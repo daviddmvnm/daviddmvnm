@@ -20,7 +20,9 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 - **AutoConnect** 🤖📬: A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.  
   It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.  
   Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability and offline use.
-https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
+
+- [AutoConnect AppImage Release](https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1)
+
 
 ![image](https://github.com/user-attachments/assets/15a38061-eaeb-4edb-94a3-4203ac1a6827)
 
@@ -36,7 +38,7 @@ https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1(APP-IMAGE)
 
  math preview :)
  
-Streamlit Demo and Model Maths : https://dynamic-climate-game-simulation.streamlit.app/
+- [Streamlit Demo & Model Maths](https://dynamic-climate-game-simulation.streamlit.app/)
 
 ---
 
