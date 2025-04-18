@@ -27,6 +27,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 ---
 
 🛠️ **Languages & Tools for Data Science**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -40,6 +41,7 @@ I'm a final-year Economics student focused on learning and getting as good as I 
 ---
 
 📈 **GitHub Stats**
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=issues&theme=github_dark)
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviddmvnm&show_icons=true&hide_title=true&hide=issues&theme=github_dark)
 
 ---
