@@ -40,8 +40,10 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 
 ---
 ### 🧪 **My Summer Project**
-- **SolarAtlas** 🌞🗺️: A geospatial tool to scout optimal solar development zones *before* intensive modeling in tools like SAM or PVGIS.  
-  Think of it as automated EDA for solar planning — using open data, terrain analysis, and site heuristics to surface high-potential regions quickly.
+**SolarAtlas** 🌞🗺️:
+- A geospatial tool to scout optimal solar development zones *before* intensive modeling in tools like SAM or PVGIS.  
+- Think of it as automated EDA for solar planning — using open data, terrain analysis, and site heuristics to 
+surface high-potential regions quickly.
 
 ### 🎯 **What I'm learning**
 - Learning image recognition for land type classification (e.g. separating farmland, rooftops, and wasteland)
