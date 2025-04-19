@@ -9,7 +9,7 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 ### ✅ **Recently finished**
 - **AutoConnect** 🤖📬: A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.  
   It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.  
-  Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability, give it a try if you're on Linux.
+  Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability.
 - [AutoConnect AppImage Release](https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1)
 
 
