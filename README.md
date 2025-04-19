@@ -7,10 +7,10 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 ---
 
 ### ✅ **Recently finished**
-- **AutoConnect** 🤖📬:
+**AutoConnect** 🤖📬:
 - A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.
 - Avaliable as a desktop app for Linux users, windows coming when I figure out cross compilining with Docker using Wine.
--It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.
+- It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.
 - Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability.
 [AutoConnect AppImage Release](https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1)
 
@@ -19,10 +19,12 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 
  gui preview
 
-- **The Climate Catastrophe Game** 🌍💥: 
- A dynamic, multi-round simulation of global renewable energy adoption modeled as a public goods game. Countries decide whether to transition to green energy or free-ride, with their choices influenced by economic costs, climate risks, and 
- political pressure. The game incorporates dynamic costs that evolve over time, urgent climate threats, and threshold-dependent payoffs. Players' decisions are weighted by their economic size and energy impact, simulating real-world climate 
- cooperation challenges. Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
+**The Climate Catastrophe Game** 🌍💥: 
+- A dynamic, multi-round simulation of global renewable energy adoption modeled as a public goods game. Countries decide whether to transition to green energy or free-ride, with their choices influenced by economic costs, climate risks, and political pressure.
+- The game incorporates dynamic costs that evolve over time, urgent climate threats, and threshold-dependent payoffs. Players' decisions are weighted by their economic size and energy impact, simulating real-world climate 
+ cooperation challenges.
+- As proof of concept there is a simulation of the model using real data from the worldbank and a streamlit app where you can adjust exogenous params & which countries are playing the game for scenario testing.
+- Built in Python with custom payoff functions, this model explores the tipping points for global cooperation and the strategic complexity of combating climate change.
 
 
  ![image](https://github.com/user-attachments/assets/e56649f2-51ca-4545-8ce1-273772e5becb)
