@@ -5,22 +5,11 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 📍 Based in the UK 
 
 ---
-### 🧪 **My Summer Project**
-- **SolarAtlas** 🌞🗺️: A geospatial tool to scout optimal solar development zones *before* intensive modeling in tools like SAM or PVGIS.  
-  Think of it as automated EDA for solar planning — using open data, terrain analysis, and site heuristics to surface high-potential regions quickly.
-
-### 🎯 **What I'm learning**
-- Learning image recognition for land type classification (e.g. separating farmland, rooftops, and wasteland)
-- Improving database design for faster spatial queries and cleaner project pipelines
-- Building smarter, interactive UIs with React to explore candidate sites visually
-
----
 
 ### ✅ **Recently finished**
 - **AutoConnect** 🤖📬: A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.  
   It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.  
-  Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability and offline use.
-
+  Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability, give it a try if you're on Linux.
 - [AutoConnect AppImage Release](https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1)
 
 
@@ -39,6 +28,21 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
  math preview :)
  
 - [Streamlit Demo & Model Maths](https://dynamic-climate-game-simulation.streamlit.app/)
+
+---
+
+
+
+
+---
+### 🧪 **My Summer Project**
+- **SolarAtlas** 🌞🗺️: A geospatial tool to scout optimal solar development zones *before* intensive modeling in tools like SAM or PVGIS.  
+  Think of it as automated EDA for solar planning — using open data, terrain analysis, and site heuristics to surface high-potential regions quickly.
+
+### 🎯 **What I'm learning**
+- Learning image recognition for land type classification (e.g. separating farmland, rooftops, and wasteland)
+- Improving database design for faster spatial queries and cleaner project pipelines
+- Building smarter, interactive UIs with React to explore candidate sites visually
 
 ---
 
