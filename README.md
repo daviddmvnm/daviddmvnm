@@ -12,7 +12,7 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 - Avaliable as a desktop app for Linux users, windows coming when I figure out cross compilining with Docker using Wine.
 - It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.
 - Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability.
-[AutoConnect AppImage Release](https://github.com/daviddmvnm/Auto_Connect/releases/tag/v0.1.1)
+[AutoConnect](https://github.com/daviddmvnm/Auto_Connect)
 
 
 ![image](https://github.com/user-attachments/assets/15a38061-eaeb-4edb-94a3-4203ac1a6827)
