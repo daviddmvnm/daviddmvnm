@@ -1,6 +1,6 @@
 # **David  |  Aspiring Data Scientist**
 
-I'm a 2nd-year Economics student focused on learning and getting as good as I can at using data science to solve problems — from everyday tasks like automating LinkedIn outreach to hopefully one day bigger challenges like optimising clean energy sites or modeling macroeconomic risks.
+I'm a 2nd-year Economics student focused on learning and getting as good as I can at using data science to solve problems — from everyday tasks like automating social media outreach to hopefully one day bigger challenges like optimising clean energy sites or modeling macroeconomic risks.
 
 📍 Based in the UK 
 
@@ -8,7 +8,7 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 
 ### ✅ **Recently finished**
 **AutoConnect** 🤖📬:
-- A fully-automated LinkedIn outreach tool that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.
+- A fully-automated outreach tool for a popular career networking site, that combines scraping, behavioral tagging, ML predictions, and a GUI dashboard.
 - Avaliable as a desktop app for Linux users, windows coming when I figure out cross compilining with Docker using Wine.
 - It sends invites based on features like connection count, profile detail, and shared interests — then tracks who accepts to test real-world hypotheses.
 - Built with Selenium, scikit-learn, SQLite, and Tkinter. Packaged as a standalone desktop app (AppImage) for portability.
