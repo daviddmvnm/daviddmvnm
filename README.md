@@ -31,7 +31,8 @@ I'm a 2nd-year Economics student focused on learning and getting as good as I ca
 
  math preview :)
  
-- [Streamlit Demo & Model Maths](https://dynamic-climate-game-simulation.streamlit.app/)
+- [Streamlit Demo](https://dynamic-climate-game-simulation.streamlit.app/)
+- [Model Explanation](https://docs.google.com/document/d/1tJWnz3HHwFr0vCLX9vjgdrN7TkcHYmGK_M03o42I3Zw/edit?tab=t.sk0jy4ynmiir)
 
 ---
 
