@@ -1,7 +1,7 @@
 # David  
 
 I'm a 2nd-year Economics student but I also like tech
-📍 Based in the UK  
+
 
 ---
 
