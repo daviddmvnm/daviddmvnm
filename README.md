@@ -1,6 +1,6 @@
 # David  
 
-I'm a 2nd-year Economics student but I also like tech
+I'm a 3nd-year Economics student but I also like tech, ALOT
 
 
 ---
