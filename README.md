@@ -1,5 +1,7 @@
-# David  
+# David
 
-I'm a 3nd-year Economics student but I also like tech
+3rd-year Economics student at the University of Exeter, joining Convex Insurance as a Digital Underwriting graduate in 2026.
 
-https://www.linkedin.com/in/david-e-clements-7a2546364/?skipRedirect=true
+Interested in specialty insurance, catastrophe risk modelling, and the data science / engineering side of underwriting.
+
+If any of that overlaps with what you do, I'd love to chat. Find me on [LinkedIn](https://www.linkedin.com/in/david-e-clements-7a2546364/).
