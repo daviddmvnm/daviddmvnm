@@ -1,6 +1,6 @@
 # David
 
-3rd-year Economics student at the University of Exeter, joining Convex Insurance as a Digital Underwriting graduate in 2026.
+3rd-year Economics student at the University of Exeter, joining Convex Insurance as a Digital Underwriting graduate.
 
 Interested in specialty insurance, catastrophe risk modelling, and the data science / engineering side of underwriting.
 
